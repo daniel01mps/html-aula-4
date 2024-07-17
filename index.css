@@ -1,3 +1,4 @@
+            
 *{
     margin: 0;
     padding: 0;
@@ -11,45 +12,15 @@ body{
 }
 form{
     width:400px;
-    background-color: #FFFFFF;
-    border:1px solid #1a033b;
-    margin: 0 auto;
-    margin-top: 200px;
-    padding: 24px 16px;
-    border-radius: 8Px;
+    border:1px solid #dedede;
 }
 form label {
     display: block;
-    font-size: 12px;    
-    font-weight: bold;
-    text-transform: uppercase;
-    margin-bottom: 6px;
-    color: #0c9982;
 }
 form input{
     width:100%;
-    height: 44px;
     display: block;
-    border: 2px solid #DEDEDE;
-    border-radius: 4px;
-    padding: 10px;
-    margin-bottom: 16px;
-}
-form input:focus{
-    border-color: #0c9982;
 }
 form button{
-    width: 100%;
-    height: 44px;
-    font-size: 12px;
-    font-weight: bold;
-    text-transform: uppercase;
-    background-color: #0c9982   ;
-    color: #DEDEDE;
-    border-radius: 4px;
-    cursor: pointer;  
-    transition-duration: 200ms;
-}
-form button:hover{
-    background-color: #023129;
+    
 }
